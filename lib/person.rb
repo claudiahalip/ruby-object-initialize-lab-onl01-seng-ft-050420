@@ -1,5 +1,5 @@
 class Person
-  def initiator (name)
+  def initialize (name)
     @name
   end
 end
