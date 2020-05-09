@@ -1,7 +1,9 @@
 class Dog 
-  def initiator (breed = "Mutt", name)
+  def initialize (breed = "Mutt", name)
     @name
     @breed
+    
   end
+  
     
 end
